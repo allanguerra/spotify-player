@@ -48,7 +48,7 @@
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.20.0",
     "husky": "^4.2.1",
-    "mocha": "^7.0.1",
+    "mocha": "^10.2.0",
     "node-fetch": "^2.6.0",
     "nyc": "^15.0.0",
     "sinon": "^8.1.1",
